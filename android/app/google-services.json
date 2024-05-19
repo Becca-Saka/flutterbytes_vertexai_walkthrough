@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054879604309",
+    "project_id": "flutter-genesis-9f677",
+    "storage_bucket": "flutter-genesis-9f677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054879604309:android:89490b9b79755cd1c5bedc",
+        "android_client_info": {
+          "package_name": "com.adire.vertexai_walkthrough"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfKuTU4dU5o4TiW2H-Do_WRH18OSmV8Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
